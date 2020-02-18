@@ -5,7 +5,7 @@ import pytesseract
 from PIL import Image
 import numpy as np
 import math
-import threading
+
 buildTime = 0
 buildTime2 = 0
 trainTime = [0,0,0,0]
